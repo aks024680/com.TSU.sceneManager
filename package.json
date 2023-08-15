@@ -1,0 +1,13 @@
+{
+  "name": "com.tsu.scenemanager",
+  "version": "1.0.0",
+  "displayName": "tsu工具包scenemanager",
+  "description": "tsutest",
+  "unity": "2022.3",
+  
+  "author": {
+    "name": "tsu",
+    "email": "aks024680@gmail.com",
+    "url": ""
+  }
+}
